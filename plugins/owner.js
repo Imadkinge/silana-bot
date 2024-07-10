@@ -10,7 +10,7 @@ let handler = async (m, { conn }) => {
 
 *facebook page:*\nhttps://www.facebook.com/imad.chatbi.16
 
-*script bot :* https://github.com/Imadkinge/silana-bot/edit/master/plugins/owner.js
+*script bot :* https://github.com/Imadkinge/silana-bot
 
 `.trim()
   m.reply(caption)
