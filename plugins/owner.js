@@ -3,14 +3,14 @@ let handler = async (m, { conn }) => {
   let caption = `
 *「 معلومات عن صاحب البوت 」*
 
-*Number :*\nwa.me/212717457920
-*instagram:*\ninstagram.com/noureddine_ouafy
+*Number :*\nwa.me/212684278994
+*instagram:*\https://www.instagram.com/chatbi.imad?igshid=YTQwZjQ0NmI0OA==
 
-*youtube:*\nyoutube.com/@noureddineouafy2
+*youtube:*\nchatbiimad3@gmail.com
 
-*facebook page:*\nwww.facebook.com/profile.php?id=100063533185520
+*facebook page:*\nhttps://www.facebook.com/imad.chatbi.16
 
-*script bot :* github.com/noureddineouafy
+*script bot :* https://github.com/Imadkinge/silana-bot/edit/master/plugins/owner.js
 
 `.trim()
   m.reply(caption)
