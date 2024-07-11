@@ -520,7 +520,7 @@ export async function participantsUpdate({ id, participants, action }) {
 /*
 const canWel = await new canvafy.WelcomeLeave()
     .setAvatar(pp)
-    .setBackground("image", "https://telegra.ph/file/39ef0462ab2a3cc5ebfcc.jpg")
+    .setBackground("image", "https://a.uguu.se/afrLrqxv.jpg")
     .setTitle("Welcome")
     .setDescription(`Selamat datang di Grup ${groupMetadata.subject}`)
     .setBorder("#2a2e35")
@@ -529,7 +529,7 @@ const canWel = await new canvafy.WelcomeLeave()
     .build();
 const canLea = await new canvafy.WelcomeLeave()
     .setAvatar(pp)
-    .setBackground("image", "https://telegra.ph/file/39ef0462ab2a3cc5ebfcc.jpg")
+    .setBackground("image", "https://a.uguu.se/afrLrqxv.jpg")
     .setTitle("Goodbye")
     .setDescription("Selamat jalan kawan!")
     .setBorder("#2a2e35")
